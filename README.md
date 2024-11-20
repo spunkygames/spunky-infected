@@ -1,6 +1,6 @@
 # Spunky Infected
 
-Dive into a thrilling world of survival and strategy with Spunky Infected! This intense game from [Spunky Game](https://spunky.games) challenges you to outwit hordes of infected creatures and build a thriving community in a post-apocalyptic world.  Gather resources, fortify your defenses, and lead your survivors to a new dawn. Play Spunky Infected Now:[spunky-infected](https://spunky.games/spunky-infected)
+Dive into a thrilling world of survival and strategy with Spunky Infected! This intense game from [Spunky Game](https://spunky.games) challenges you to outwit hordes of infected creatures and build a thriving community in a post-apocalyptic world.  Gather resources, fortify your defenses, and lead your survivors to a new dawn. Play Now:[spunky-infected](https://spunky.games/spunky-infected)
 
 ---
 
@@ -50,7 +50,7 @@ Spunky Infected is a post-apocalyptic survival strategy game developed by [Spunk
 
 ## Frequently Asked Questions (FAQ) <a name="faq"></a>
 
-1. **Q: How do I play Spunky Infected?** A: Play Spunky Infected Now:[spunky-infected](https://spunky.games/spunky-infected)
+1. **Q: How do I play Spunky Infected?** A: Play Now:[spunky-infected](https://spunky.games/spunky-infected)
 2. **Q: How do I gather resources?** A: Resources can be collected by scavenging in the environment or through designated production structures.
 3. **Q: How do I build a base?** A: Use the building interface to construct walls, towers, and other defensive structures.
 4. **Q: How do I recruit survivors?** A: Explore the world to find and recruit new survivors to your community.
@@ -65,4 +65,4 @@ Spunky Infected is a post-apocalyptic survival strategy game developed by [Spunk
 ---
 
 
-Ready to survive the infection? Play Spunky Infected Now:[spunky-infected](https://spunky.games/spunky-infected)
+Ready to survive the infection? Play Now:[spunky-infected](https://spunky.games/spunky-infected)
